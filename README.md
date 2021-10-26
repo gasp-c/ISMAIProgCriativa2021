@@ -87,21 +87,14 @@
     - **RTFM!** - https://processing.org/reference/
 
 - Vocabulário:
-  - ~size()~
-  - ~point()~
-  - ~line()~
-  - ~rect()~
-  - ~ellipse()~
-  - ~triangle()~
+  - size()
+  - point()
+  - line()
+  - rect()
+  - ellipse()
+  - triangle()
 
 - Especificidades do Processing:
   - Sistema de coordenadas: https://processing.org/tutorials/drawing/
   - Ordem de execução
-
-- Desafios!
-
-  - "Porta-Retrato" == bordas
-  - pizza
-  - ruleOfThirds
-  - xadrez
 
