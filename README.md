@@ -95,6 +95,6 @@
   - triangle()
 
 - Especificidades do Processing:
-  - Sistema de coordenadas: https://processing.org/tutorials/drawing/
+  - Sistema de coordenadas 
   - Ordem de execução
 
