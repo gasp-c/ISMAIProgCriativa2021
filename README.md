@@ -98,3 +98,32 @@
   - Sistema de coordenadas 
   - Ordem de execução
 
+## AULA 3 - 29/10/21
+
+- Acompanhamento dos trabalhos
+
+## AULA 3.5 - 02/11/21
+
+- Elaboração de um sketch-base para todos os projetos, com setup e draw, funções úteis para monitoração de debugging
+- Revisão e Apresentação de Conceitos Básicos da Programação (Criativa)
+
+  - *Funções*: /instruções/ para o computador que fazem parte do vocabulário daquela linguagem. "Faça isso..."
+  - *Argumentos*: /qualificadores/ de uma função em particular. "...mas faça dessa maneira"
+  - *Sintaxe*: /convenção/ de como a escrita de uma linguagem se dá.
+  - +++
+  - *Iteração*: /x = x + 1/ Modificação dos valores da caixa, de modo auto-referencial
+  - *Condicionais*: /SE/, pergunta ao programa algo, e dá opções do que fazer 
+
+
+- Vocabulário:
+  - background()
+  - random()
+  - fill() / noFill()
+  - colorMode()
+  - stroke()
+  - noStroke()
+  - strokeWeight()
+  - saveFrame()
+  - println()
+  - translate()
+
