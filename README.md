@@ -127,3 +127,21 @@
   - println()
   - translate()
 
+
+## AULA 4 - 06/11/21
+
+- Lançamento dos primeiros DESAFIOS
+
+  - Desafio #1 -Rule of Thirds
+  - Desafio #2 -Porta-retrato
+  - Desafio #3 -Guided Meditation
+  - Desafio #4 -Pizza
+
+~~Desafio #5
+Xadrez/Damas
+Desafio #6
+Túnel/perspectiva de 1 ponto
+Desafio #7
+Colisão
+Desafio #8
+Mouse quadrante~~
