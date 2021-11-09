@@ -132,10 +132,12 @@
 
 - Lançamento dos primeiros DESAFIOS
 
-  - Desafio #1 -Rule of Thirds
-  - Desafio #2 -Porta-retrato
-  - Desafio #3 -Guided Meditation
-  - Desafio #4 -Pizza
+  - Desafio #1 -Rule of Thirds:Seguindo a teoria do enquadramento fotográfico, desenvolver um sketch que crie uma grid de terços responsiva
+  - Desafio #2 -Porta-retrato:Desde a grid, desenvolva uma borda uniforme e para o canvas e posicione corretamente uma imagem desde o site thispersondoesnotexist.com
+  - Desafio #3 -Guided Meditation:Desenvolva uma animação, de forma livre, que guie um ciclo respiratorio (inspire-expire)
+  - Desafio #4 -Pizza: Livre. Qualquer coisa que se pareça com uma pizza. Mas procurem escrever o  código mais bem escrito e que resulte em mais pizzas diferentes a cada vez que roda.
+
+
 
 ~~Desafio #5
 Xadrez/Damas
