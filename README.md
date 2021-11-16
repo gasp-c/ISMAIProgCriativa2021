@@ -137,13 +137,13 @@
   - Desafio #3 -Guided Meditation:Desenvolva uma animação, de forma livre, que guie um ciclo respiratorio (inspire-expire)
   - Desafio #4 -Pizza: Livre. Qualquer coisa que se pareça com uma pizza. Mas procurem escrever o  código mais bem escrito e que resulte em mais pizzas diferentes a cada vez que roda.
 
+## AULA 4.5 - 09/11/21
+## AULA 5 - 12/11/21
 
+- Lançamento da segunda vaga de DESAFIOS
 
-~~Desafio #5
-Xadrez/Damas
-Desafio #6
-Túnel/perspectiva de 1 ponto
-Desafio #7
-Colisão
-Desafio #8
-Mouse quadrante~~
+  - Desafio #5 -Xadrez/Damas
+  - Desafio #6 -Túnel/perspectiva de 1 ponto
+  - Desafio #7 -Colisão
+  - Desafio #8 -Mouse quadrante
+
