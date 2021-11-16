@@ -138,6 +138,11 @@
   - Desafio #4 -Pizza: Livre. Qualquer coisa que se pareça com uma pizza. Mas procurem escrever o  código mais bem escrito e que resulte em mais pizzas diferentes a cada vez que roda.
 
 ## AULA 4.5 - 09/11/21
+
+- Revisão de Conceitos básicos, introdução da função for()
+- Acompanhamento e tirar dúvidas dos desafios 
+
+
 ## AULA 5 - 12/11/21
 
 - Lançamento da segunda vaga de DESAFIOS
