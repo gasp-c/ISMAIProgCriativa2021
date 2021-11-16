@@ -152,10 +152,13 @@
   - Desafio #7 -Colisão
   - Desafio #8 -Mouse quadrante
 
-~~Desafio #9Frieder Nake exemplo
-Desafio #10Cara ou Coroa
-Desafio #11I Ching
-Desafio #12RendomWalker
-Desafio #13Mondrian/De Stijl
+## AULA 5.5 - 16/11/21
+
+  - Desafio #9 -Cara ou Coroa
+  - Desafio #10 -I Ching
+  - Desafio #11 -RandomWalker
+  - Desafio #12 -Frieder Nake, Random line
+
+~~Desafio #13Mondrian/De Stijl
 Desafio #14Sound Visualizer~~
 
