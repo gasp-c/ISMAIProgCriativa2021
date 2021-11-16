@@ -152,5 +152,10 @@
   - Desafio #7 -Colisão
   - Desafio #8 -Mouse quadrante
 
-~~Desafio #9Frieder Nake exemploDesafio #10I ChingDesafio #11Mondrian/De StijlDesafio #12Sound Visualizer~~
+~~Desafio #9Frieder Nake exemplo
+Desafio #10Cara ou Coroa
+Desafio #11I Ching
+Desafio #12RendomWalker
+Desafio #13Mondrian/De Stijl
+Desafio #14Sound Visualizer~~
 
