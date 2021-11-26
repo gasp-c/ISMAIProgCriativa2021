@@ -159,6 +159,19 @@
   - Desafio #11 -RandomWalker
   - Desafio #12 -Frieder Nake, Random line
 
-~~Desafio #13Mondrian/De Stijl
-Desafio #14Sound Visualizer~~
+## AULA 6 - 19/11/21
 
+- Acompanhamento do desenvolvimento dos Desafios,
+- Resolução em sala do desafio #9
+
+## AULA 6.5 - 23/11/21
+
+- Acompanhamento do desenvolvimento dos Desafios,
+- Resolução em aula EAD dos desafio #5,#7,#9
+
+## AULA 7 - 26/11/21
+
+Desafio #13 -Brush
+Desafio #14 -Mondrian/De Stijl
+Desafio #15 -Sound Visualizer
+Desafio #16 -3D
