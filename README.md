@@ -147,17 +147,19 @@
 
 - Lançamento da segunda vaga de DESAFIOS
 
-  - Desafio #5 -Xadrez/Damas
-  - Desafio #6 -Túnel/perspectiva de 1 ponto
-  - Desafio #7 -Colisão
-  - Desafio #8 -Mouse quadrante
+  - Desafio #5 -Xadrez/Damas: Da maneira mais eficaz possivel, faça um sketch que resulte num tabuleiro/mesa de Xadrez
+  - Desafio #6 -Túnel/perspectiva de 1 ponto: Livre, faça qualquer composição que utilize a logica da perspectiva linear de um ponto. 
+  - Desafio #7 -Colisão: Através de lógica, faça um sketch que possa detectar colisões, seja entre "objetos" ou entre estes e as bordas do ecrã.
+  - Desafio #8 -Mouse quadrante: Utilize a posição X e Y do Rato para controlar aspectos do ecrã, como cor e tamanho de "objetos". lembre dos quadrantes do ecrã para tornar estas transformações mais visíveis
 
 ## AULA 5.5 - 16/11/21
 
-  - Desafio #9 -Cara ou Coroa
-  - Desafio #10 -I Ching
-  - Desafio #11 -RandomWalker
-  - Desafio #12 -Frieder Nake, Random line
+- Lançamento da terceira vaga de DESAFIOS
+
+  - Desafio #9 -Cara ou Coroa: Desenvolva um sketch capaz de lançar uma moeda, um sorteio de probabilidade 50% e visualizar o resultado
+  - Desafio #10 -I Ching: A partir do Cara ou Coroa, faça um sketch que resulte num hexograma para um jogo de iChing
+  - Desafio #11 -RandomWalker: Este é um dos algoritmos mais classicos da programação visual e da matemática. Utiliza tambem o sorteio como forma de controle.
+  - Desafio #12 -Frieder Nake, Random line: Referencia: http://noll.uscannenberg.org/CompArtExamplesfiles/IMAGE004.jpg
 
 ## AULA 6 - 19/11/21
 
@@ -171,7 +173,9 @@
 
 ## AULA 7 - 26/11/21
 
-Desafio #13 -Brush
-Desafio #14 -Mondrian/De Stijl
-Desafio #15 -Sound Visualizer
-Desafio #16 -3D
+- Lançamento da quarta vaga de DESAFIOS
+
+ - Desafio #13 -Brush
+ - Desafio #14 -Mondrian/De Stijl
+ - Desafio #15 -Sound Visualizer
+ - Desafio #16 -3D
