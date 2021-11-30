@@ -173,6 +173,10 @@
 
 ## AULA 7 - 26/11/21
 
+- Acompanhamento do desenvolvimento dos Desafios, com enfoque no algorítmo RandomWalker
+
+## AULA 7.5 - 30/11/21
+
 - Lançamento da quarta vaga de DESAFIOS
 
  - Desafio #13 -Brush
