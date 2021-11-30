@@ -179,7 +179,7 @@
 
 - Lançamento da quarta vaga de DESAFIOS
 
- - Desafio #13 -Brush
- - Desafio #14 -Mondrian/De Stijl
- - Desafio #15 -Sound Visualizer
- - Desafio #16 -3D
+  - Desafio #13 -Brush
+  - Desafio #14 -Mondrian/De Stijl
+  - Desafio #15 -Sound Visualizer
+  - Desafio #16 -3D
