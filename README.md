@@ -183,3 +183,19 @@
   - Desafio #14 -Mondrian/De Stijl
   - Desafio #15 -Sound Visualizer
   - Desafio #16 -3D
+
+## AULA 8 - 03/12/21
+
+- Poucos alunos compareceram por conta da Greve do Metro. Acompanhamento dos exercícios dos poucos presentes
+
+## AULA 8.5 - 07/12/21
+
+**“TRABALHO FINAL”**
+
+ - Valor de 25% da Avaliação Total
+ - Precedido por Proposta de trabalho (Obrigatória)
+   -Texto descritivo
+   -Rascunho
+   -Referência externa
+   
+   **DATA DE ENTREGA: SEX: 22/01**
