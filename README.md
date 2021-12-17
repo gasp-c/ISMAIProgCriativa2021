@@ -214,11 +214,11 @@
   - ~~Desafio #5 -Xadrez/Damas: Da maneira mais eficaz possivel, faça um sketch que resulte num tabuleiro/mesa de Xadrez~~
   - Desafio #6 -Túnel/perspectiva de 1 ponto: Livre, faça qualquer composição que utilize a logica da perspectiva linear de um ponto. 
   - ~~Desafio #7 -Colisão: Através de lógica, faça um sketch que possa detectar colisões, seja entre "objetos" ou entre estes e as bordas do ecrã.~~
-  - Desafio #8 -Mouse quadrante: Utilize a posição X e Y do Rato para controlar aspectos do ecrã, como cor e tamanho de "objetos". lembre dos quadrantes do ecrã para tornar estas transformações mais visíveis
+  - ~~Desafio #8 -Mouse quadrante: Utilize a posição X e Y do Rato para controlar aspectos do ecrã, como cor e tamanho de "objetos". lembre dos quadrantes do ecrã para tornar estas transformações mais visíveis~~
   - ~~Desafio #9 -Cara ou Coroa: Desenvolva um sketch capaz de lançar uma moeda, um sorteio de probabilidade 50% e visualizar o resultado~~
   - ~~Desafio #10 -I Ching: A partir do Cara ou Coroa, faça um sketch que resulte num hexograma para um jogo de iChing~~
   - ~~Desafio #11 -RandomWalker: Este é um dos algoritmos mais classicos da programação visual e da matemática. Utiliza tambem o sorteio como forma de controle.~~
-  - Desafio #12 -Frieder Nake, Random line: Referencia: http://noll.uscannenberg.org/CompArtExamplesfiles/IMAGE004.jpg
+  - ~~Desafio #12 -Frieder Nake, Random line: Referencia: http://noll.uscannenberg.org/CompArtExamplesfiles/IMAGE004.jpg~~
   - Desafio #13 -Brush: Desenvolver um programa que Utiliza a posição do mouse e o click para pintar, de forma livre, no canvas 
   - Desafio #14 -Mondrian/De Stijl: Desenvolver um programa que utilize este movimento artístico como referencia estética para composições 
   - Desafio #15 -Sound Visualizer: Desenvolver alguma forma de visualizar som, utilizando a biblioteca própria para input sonoro
