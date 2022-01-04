@@ -205,7 +205,8 @@
  - Não Houve - Compensar em Janeiro
 
 
-## Lista completa de Desafios:
+## Lista completa de Desafios
+(RASURADOS significa que já foram resolvidos em sala):
    
   - ~~Desafio #1 -Rule of Thirds:Seguindo a teoria do enquadramento fotográfico, desenvolver um sketch que crie uma grid de terços responsiva~~
   - ~~Desafio #2 -Porta-retrato:Desde a grid, desenvolva uma borda uniforme e para o canvas e posicione corretamente uma imagem desde o site thispersondoesnotexist.com~~
