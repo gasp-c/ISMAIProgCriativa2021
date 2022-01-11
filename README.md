@@ -224,6 +224,5 @@
   - Desafio #14 -Mondrian/De Stijl: Desenvolver um programa que utilize este movimento artístico como referencia estética para composições 
   - Desafio #15 -Sound Visualizer: Desenvolver alguma forma de visualizar som, utilizando a biblioteca própria para input sonoro
   - ~~Desafio #16 -3D: Livre, composição livre em espaço tridimensional utilizando o renderer P3D ~~
-
-FIM
+  - FIM
 
