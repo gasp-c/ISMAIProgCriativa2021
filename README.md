@@ -213,7 +213,7 @@
   - ~~Desafio #3 -Guided Meditation:Desenvolva uma animação, de forma livre, que guie um ciclo respiratorio (inspire-expire)~~
   - ~~Desafio #4 -Pizza: Livre. Qualquer coisa que se pareça com uma pizza. Mas procurem escrever o código mais bem escrito e que resulte em mais pizzas diferentes a cada vez que roda.~~
   - ~~Desafio #5 -Xadrez/Damas: Da maneira mais eficaz possivel, faça um sketch que resulte num tabuleiro/mesa de Xadrez~~
-  - Desafio #6 -Túnel/perspectiva de 1 ponto: Livre, faça qualquer composição que utilize a logica da perspectiva linear de um ponto. 
+  - ~~Desafio #6 -Túnel/perspectiva de 1 ponto: Livre, faça qualquer composição que utilize a logica da perspectiva linear de um ponto.~~ 
   - ~~Desafio #7 -Colisão: Através de lógica, faça um sketch que possa detectar colisões, seja entre "objetos" ou entre estes e as bordas do ecrã.~~
   - ~~Desafio #8 -Mouse quadrante: Utilize a posição X e Y do Rato para controlar aspectos do ecrã, como cor e tamanho de "objetos". lembre dos quadrantes do ecrã para tornar estas transformações mais visíveis~~
   - ~~Desafio #9 -Cara ou Coroa: Desenvolva um sketch capaz de lançar uma moeda, um sorteio de probabilidade 50% e visualizar o resultado~~
